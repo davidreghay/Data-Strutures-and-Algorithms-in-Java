@@ -10,4 +10,7 @@ While this undertaking is mostly for my own enjoyment and edification, I do hope
 valuable to other developers as a resource.
 
 The generated javadoc API documentation for this project can be viewed at:
-https://rawgit.com/davidreghay/Data-Strutures-and-Algorithms-in-Java/master/doc/index.html
+
+<p>
+  https://rawgit.com/davidreghay/Data-Strutures-and-Algorithms-in-Java/master/doc/index.html
+</p>
