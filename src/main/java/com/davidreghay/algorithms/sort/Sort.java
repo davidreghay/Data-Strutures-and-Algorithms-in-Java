@@ -2,9 +2,7 @@ package com.davidreghay.algorithms.sort;
 
 public abstract class Sort {
 	
-	public static void sort(Comparable[] list) {
-		
-	}
+	public abstract void sort(Comparable[] list);
 
 	public static boolean less(Comparable v, Comparable w) {
 		return v.compareTo(w) < 0;
