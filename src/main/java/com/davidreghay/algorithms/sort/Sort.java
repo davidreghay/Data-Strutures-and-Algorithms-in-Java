@@ -1,8 +1,12 @@
 package com.davidreghay.algorithms.sort;
 
-public abstract class Sort {
+public class Sort {
 	
-	public abstract void sort(Comparable[] list);
+	public static void sort(Comparable[] list) {
+		/**
+		 * Can't declare a static abstract method, so this will have to do
+		 */
+	};
 
 	public static boolean less(Comparable v, Comparable w) {
 		return v.compareTo(w) < 0;
